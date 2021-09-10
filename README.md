@@ -3,6 +3,7 @@
 * It is uploaded to GitHub for showcase and educational purposes.
 * 2017
 * It is not intended to be use under commercial activities, please read the license file
+* It is intended to be used as a showcase and for educational purposes
 * Code is not clean
 
 # License
