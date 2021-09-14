@@ -1,13 +1,13 @@
-# Bitcoin Ether
+# Bitcoin Ether 2017
 * Bring a value storage system to Ethereum
-* It is uploaded to GitHub for showcase and educational purposes.
-* 2017
-* It is not intended to be use under commercial activities, please read the license file
-* It is intended to be used as a showcase and for educational purposes
+* It is uploaded to GitHub for showcase and educational purposes. It is not intended to be use under commercial activities, please read the license file
 * Code is not clean
 
 # License
 * Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)
+
+# Architecture
+* You can check the system architecture and project presentation at [Bitcoin_Ether.pdf]()
 
 # Key points
 * Boostrap a community through an Airdrop
