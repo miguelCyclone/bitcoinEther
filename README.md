@@ -7,7 +7,7 @@
 * Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)
 
 # Architecture
-* You can check the system architecture and project presentation at [Bitcoin_Ether.pdf]()
+* You can check the system architecture and project presentation at [Bitcoin_Ether.pdf](https://github.com/miguelCyclone/bitcoinEther/tree/master/projectPresentation)
 
 # Key points
 * Boostrap a community through an Airdrop
