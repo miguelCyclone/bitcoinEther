@@ -1,5 +1,5 @@
-const TokenERC20 = artifacts.require("TokenERC20");
+const MyAdvancedToken = artifacts.require("MyAdvancedToken");
 
 module.exports = function (deployer) {
-  deployer.deploy(TokenERC20, 10000000, 21000000, "BitcoinEther", "BTCE", 12, 1);
+  deployer.deploy(MyAdvancedToken, 12000, 21000, "BitcoinEther", "BTCE", 12, 1);
 };

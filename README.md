@@ -29,3 +29,12 @@
 * It can be run by automated bursts, or by manual burst for better error management
 * Each burst is caped to a certain number of transfer transaction
 * The Burst are caped following the GAS consumption and block size
+
+# Truffle testing
+* Truffle provides a great suit for SC unit testing
+* I have tested some variables and functionalities with truffle
+* The behavioural of the SC was tested with Remix when I designed it, however, a more in depth behavioural testing shall be done with truffle
+
+# To do
+* Truffle SC behavioural testing
+* Add a mongoose DB for the nodejs app to store the blockchain data
