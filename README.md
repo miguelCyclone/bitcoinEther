@@ -1,7 +1,6 @@
 # Bitcoin Ether 2017
 * Bring a value storage system to Ethereum
 * It is uploaded to GitHub for showcase and educational purposes. It is not intended to be use under commercial activities, please read the license file
-* Code is not clean
 
 # License
 * Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)
@@ -10,12 +9,12 @@
 * You can check the system architecture and project presentation at [Bitcoin_Ether.pdf](https://github.com/miguelCyclone/bitcoinEther/tree/master/projectPresentation)
 
 # Key points
-* Boostrap a community through an Airdrop
+* Bootstrap a community through an Airdrop
 * The accounts for the airdops are been read from the latest X blocks
 * The accounts are pruned in base of trading activity and token holder
 
 # Smart Contracts
-* Is not clean, it is a PoC
+* It is a PoC
 * It creates a new token every ethereum cycle, that matches the bitcoin cycle
 * The token is given to the miner of the eth block
 
@@ -37,4 +36,5 @@
 
 # To do
 * Truffle SC behavioural testing
-* Add a mongoose DB for the nodejs app to store the blockchain data
+* Add a mongoose DB for the nodejs app to store the blockchain data (Afterwards dockerize the app)
+* Currently it uses Web3, but it would be more friendly to update it to Ethers.js
